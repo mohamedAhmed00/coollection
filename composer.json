@@ -19,8 +19,8 @@
     "require": {
         "php": "^8.2",
         "mohamedahmed00/ia-collection": "*",
-        "pragmarx/ia-str": "~7.3",
-        "pragmarx/ia-arr": "~7.3"
+        "mohamedahmed00/ia-str": "~7.3",
+        "mohamedahmed00/ia-arr": "~7.3"
     },
     "require-dev": {
         "mockery/mockery": "~1.6",
