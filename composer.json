@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "pragmarx/ia-collection": "~7.3",
+        "mohamedahmed00/ia-collection": "*",
         "pragmarx/ia-str": "~7.3",
         "pragmarx/ia-arr": "~7.3"
     },
