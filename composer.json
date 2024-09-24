@@ -1,38 +1,37 @@
 {
-    "name": "pragmarx/coollection",
+    "name": "mohamedahmed00/coollection",
     "type": "library",
     "description": "Laravel Illuminate collection with objectified properties",
     "keywords": [
-        "pragmarx",
+        "mohamedahmed00",
         "collection",
         "laravel"
     ],
-    "homepage": "https://github.com/antonioribeiro/coollection",
+    "homepage": "https://github.com/mohamedahmed00/coollection",
     "license": "MIT",
     "authors": [
         {
-            "name": "Antonio Carlos Ribeiro",
-            "email": "acr@antoniocarlosribeiro.com",
-            "homepage": "https://antoniocarlosribeiro.com",
+            "name": "Mohamed ahmed ",
+            "email": "engmohamedahmed00@gmail.com",
             "role": "Creator"
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "pragmarx/ia-collection": "~5.0|~6.0|~7.0",
-        "pragmarx/ia-str": "~5.0|~6.0|~7.0",
-        "pragmarx/ia-arr": "~5.0|~6.0|~7.0"
+        "php": "^8.2",
+        "pragmarx/ia-collection": "~7.3",
+        "pragmarx/ia-str": "~7.3",
+        "pragmarx/ia-arr": "~7.3"
     },
     "require-dev": {
-        "mockery/mockery": "~1.0",
-        "phpunit/php-timer": "~1.0|~2.0",
-        "phpunit/phpunit": "~6.0|~7.0|~8.0|~9.0",
-        "squizlabs/php_codesniffer": "^2.3"
+        "mockery/mockery": "~1.6",
+        "phpunit/php-timer": "~7.0",
+        "phpunit/phpunit": "~11.3",
+        "squizlabs/php_codesniffer": "^3.10"
     },
     "autoload": {
         "psr-4": {
-            "PragmaRX\\Coollection\\Package\\": "src/package",
-            "PragmaRX\\Coollection\\Tests\\": "tests",
+            "Mohamedahmed00\\Coollection\\Package\\": "src/package",
+            "Mohamedahmed00\\Coollection\\Tests\\": "tests",
             "IlluminateExtracted\\": "src/package/Support/IlluminateExtracted",
             "IlluminateExtracted\\Tests\\": "tests/IlluminateExtracted"
         },
@@ -42,7 +41,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "PragmaRX\\Coollection\\Tests\\": "tests"
+            "Mohamedahmed00\\Coollection\\Tests\\": "tests"
         }
     },
     "scripts": {

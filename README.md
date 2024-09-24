@@ -1,11 +1,11 @@
 # Coollection
 
 <p align="center">
-    <a href="https://packagist.org/packages/pragmarx/coollection"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/pragmarx/coollection.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/coollection"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/mohamedahmed00/coollection.svg?style=flat-square"></a>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/coollection/?branch=master"><img alt="Code Quality" src="https://img.shields.io/scrutinizer/g/antonioribeiro/coollection.svg?style=flat-square"></a>
     <a href="https://travis-ci.org/antonioribeiro/coollection"><img alt="Build" src="https://img.shields.io/travis/antonioribeiro/coollection.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/pragmarx/coollection"><img alt="Downloads" src="https://img.shields.io/packagist/dt/pragmarx/coollection.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/coollection"><img alt="Downloads" src="https://img.shields.io/packagist/dt/mohamedahmed00/coollection.svg?style=flat-square"></a>
 </p>
 <p align="center">
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/coollection/?branch=master"><img alt="Coverage" src="https://img.shields.io/scrutinizer/coverage/g/antonioribeiro/coollection.svg?style=flat-square"></a>
@@ -130,7 +130,7 @@ $countries->where('name.common', 'United States')->first()->currency->symbol;
 Via Composer
 
 ``` bash
-$ composer require pragmarx/coollection
+$ composer require mohamedahmed00/coollection
 ```
 
 ## Usage

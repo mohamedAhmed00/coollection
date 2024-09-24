@@ -1,6 +1,6 @@
 <?php
 
-namespace PragmaRX\Coollection\Package\Support\Traits;
+namespace Mohamedahmed00\Coollection\Package\Support\Traits;
 
 use Closure;
 use ReflectionClass;

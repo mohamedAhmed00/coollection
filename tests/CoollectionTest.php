@@ -1,13 +1,13 @@
 <?php
 
-namespace PragmaRX\Coollection\Tests;
+namespace Mohamedahmed00\Coollection\Tests;
 
 use ReflectionClass;
 use JsonSerializable;
 use BadMethodCallException;
 use IlluminateAgnostic\Str\Support\Str;
-use PragmaRX\Coollection\Package\Coollection;
-use PragmaRX\Coollection\Tests\Support\Dummy;
+use Mohamedahmed00\Coollection\Package\Coollection;
+use Mohamedahmed00\Coollection\Tests\Support\Dummy;
 use IlluminateAgnostic\Collection\Contracts\Support\Jsonable;
 use IlluminateAgnostic\Collection\Contracts\Support\Arrayable;
 use IlluminateAgnostic\Collection\Support\Collection as IlluminateExtractedCollection;

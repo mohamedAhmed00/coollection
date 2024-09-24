@@ -1,6 +1,6 @@
 <?php
 
-namespace PragmaRX\Coollection\Package;
+namespace Mohamedahmed00\Coollection\Package;
 
 use Closure;
 use Countable;

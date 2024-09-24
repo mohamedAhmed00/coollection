@@ -1,6 +1,6 @@
 <?php
 
-namespace PragmaRX\Coollection\Tests\Support;
+namespace Mohamedahmed00\Coollection\Tests\Support;
 
 class Dummy
 {

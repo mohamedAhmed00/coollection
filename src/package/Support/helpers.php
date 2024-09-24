@@ -1,14 +1,14 @@
 <?php
 
 use IlluminateAgnostic\Str\Support\Str;
-use PragmaRX\Coollection\Package\Coollection;
+use Mohamedahmed00\Coollection\Package\Coollection;
 
 if (!function_exists('coollect')) {
     /**
      * Create a collection from the given value.
      *
      * @param  mixed  $value
-     * @return \PragmaRX\Coollection\Package\Coollection
+     * @return \Mohamedahmed00\Coollection\Package\Coollection
      */
     function coollect($value = null)
     {
